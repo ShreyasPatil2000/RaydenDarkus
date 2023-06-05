@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas Patil</h1>
-<h3 align="center">An enthusiastic Computer Science graduate student seeking a role as a software engineer/web developer</h3>
+<h3 align="center">An enthusiastic Computer Science graduate student seeking a role as a Software Engineer/Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.streamelements.com/uploads/f820f9a2-1aa6-40e9-846a-bfc80ef33643.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raydendarkus&label=Profile%20views&color=0e75b6&style=flat" alt="raydendarkus" /> </p>
