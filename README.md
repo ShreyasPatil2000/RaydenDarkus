@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raydendarkus&label=Profile%20views&color=0e75b6&style=flat" alt="raydendarkus" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Multiplayer Connect Four Game**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PostgreSQL, React**
 
 - 💬 Ask me about **Python, Scikit-Learn, Node.js, Flask**
 
