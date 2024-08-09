@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shreyas.patil20000@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NSQRxk0j7LhQPMegL_g-26JvGgBsXb28q3urfhD0XY4/edit?usp=sharing](https://docs.google.com/document/d/1NSQRxk0j7LhQPMegL_g-26JvGgBsXb28q3urfhD0XY4/edit?usp=sharing)
+- 📄 Know about my experiences [https://raydendarkus.github.io/Portfolio/](https://raydendarkus.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
