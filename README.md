@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raydendarkus&label=Profile%20views&color=0e75b6&style=flat" alt="raydendarkus" /> </p>
 
-- 🔭 I’m currently working on **Multiplayer Connect Four Game**
+- 🔭 I’m currently working on **Tourism and Travel Tracker, Chat Application**
 
-- 🌱 I’m currently learning **PostgreSQL, React**
+- 🌱 I’m currently learning **Flask, Next.js, Tailwind**
 
-- 💬 Ask me about **Python, Scikit-Learn, Node.js, Flask**
+- 💬 Ask me about **Python, Scikit-Learn, Node.js, React.js**
 
 - 📫 How to reach me **shreyas.patil20000@gmail.com**
 
